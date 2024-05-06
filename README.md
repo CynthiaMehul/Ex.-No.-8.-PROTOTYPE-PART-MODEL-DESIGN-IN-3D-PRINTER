@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![ex 3](https://github.com/CynthiaMehul/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319444/5e5eda66-46e4-4c3c-9f7c-2e7be9142fc4)
 
-### Name:
-### Register Number:
+### Name: Cynthia Mehul J
+### Register Number: 212223240020
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
