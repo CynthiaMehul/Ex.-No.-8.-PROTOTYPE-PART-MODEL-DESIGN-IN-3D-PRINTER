@@ -48,6 +48,8 @@
 ## Output:
 ![ex 3](https://github.com/CynthiaMehul/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319444/5e5eda66-46e4-4c3c-9f7c-2e7be9142fc4)
 
+![clock output](https://github.com/CynthiaMehul/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319444/d33c01ba-7876-4cf7-89fa-62ee44926909)
+
 ### Name: Cynthia Mehul J
 ### Register Number: 212223240020
 
